@@ -14,6 +14,8 @@ The goal with this lab is to design a 5-bit R-2R Ladder Digital to Analog Conver
 
 ## Electric Schematic
 
+A good approach to design this schematic in a modular way is to start by designing the subsection shown below
+
 ## Electric Layout
 
 ## Aditional Comments
