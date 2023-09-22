@@ -14,7 +14,9 @@ The goal with this lab is to design a 5-bit R-2R Ladder Digital to Analog Conver
 
 ## Electric Schematic
 
-A good approach to design this schematic in a modular way is to start by designing the subsection shown below
+Since the R-2R Ladder relies on connecting a bunch of resistors in a voltage divider fashion, let's create a cell that represents the 2R and one R connected together.
+
+![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/dac_subsection.png)
 
 ## Electric Layout
 
