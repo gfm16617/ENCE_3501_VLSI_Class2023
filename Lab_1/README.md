@@ -1,5 +1,10 @@
 # Lab 1 - 5-bit DAC
 
+## Table of Contents
+- [Lab Description](#lab-description)
+- [Schematic](#schematic)
+
+## Lab Description
 The goal with this lab is to design a 5-bit R-2R Ladder Digital to Analog Converter (DAC) without an op-amp.
 
 ## Schematic
