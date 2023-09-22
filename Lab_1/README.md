@@ -27,4 +27,6 @@ Since the R-2R Ladder relies on connecting a bunch of resistors in a voltage div
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_lay.png)
 
+![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_lay_3D.png)
+
 ## Aditional Comments
