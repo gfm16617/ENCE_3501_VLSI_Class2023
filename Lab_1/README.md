@@ -3,8 +3,9 @@
 ## Table of Contents
 - [Lab Description](#lab-description)
 - [General Schematic](#general-schematic)
-- [Electric Schematic](#electric-schematic)
-- [Electric Layout](#electric-layout)
+- [R_Divider Cell](#r_divider-cell)
+  - [Electric Schematic](#electric-schematic)
+  - [Electric Layout](#electric-layout)
 
 ## Lab Description
 The goal with this lab is to design a 5-bit R-2R Ladder Digital to Analog Converter (DAC) without an op-amp.
@@ -20,8 +21,10 @@ Since the R-2R Ladder relies on connecting a bunch of resistors in a voltage div
 
 ### Electric Schematic
 
-
+![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_sch.png)
 
 ### Electric Layout
+
+![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_lay.png)
 
 ## Aditional Comments
