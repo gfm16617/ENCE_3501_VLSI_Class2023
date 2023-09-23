@@ -50,6 +50,8 @@ For this lab, we are building the resistors at the n-well layer and we are only 
 
 To select the correct resistor dimensions (L and W), we will use the equation (in black) below. Have in mind that for the technology that we are using the resistance per square at the n-well is 855 ohm/sq.
 
+We are also going to work with a fixed width. We can select any width that we want as long as it is bigger than 12 (DRC Sub-micron rule). I will be working with a width of 15.
+
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/n_well_RCalc.jpg)
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_sch.png)
