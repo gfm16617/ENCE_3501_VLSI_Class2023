@@ -60,19 +60,31 @@ The schematic is then created with the defined requirements.
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_sch.png)
 
-To simulate this cell, I created a new schematic and included one R_Divider cell symbol. LTspice was used to simulate the circuit.
+To simulate this cell, create a new schematic and includ one R_Divider cell symbol. LTspice is used to simulate the circuit.
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_sim.png)
 
-You can see the correct output voltage for this circuit.
+You can see the correct output voltage for this circuit, that means that the schematic was designed correctly.
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_sim_spice.png)
 
 ### Electric Layout
 
+The layout follows the same design process used during the schematic design. Select n-well resistors and adjust the dimensions accordingly.
+
+n_well_lay_menu -> picture
+
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_lay.png)
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_lay_3D.png)
+
+To simulate this layout cell, create a new layout and includ one R_Divider layout cell. LTspice is used to simulate the circuit.
+
+r_divider_lay_sim -> picture
+
+You can see the correct output voltage for this circuit, that means that the layout was designed correctly.
+
+r_divider_lay_sim_spice -> picture
 
 ## Lab Questions
 
