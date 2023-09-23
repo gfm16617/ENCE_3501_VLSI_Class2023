@@ -34,7 +34,7 @@ The labs are also using the MOSIS scalable CMOS (SCMOS) submicron design rules [
 
 Since this lab is about resistors implemented at the well layer, below you have the table with the minimum dimensions for the well width, space and overlap.
 
-submicron_drc_rules -> picture
+![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/submicron_drc_rules.png)
 
 ## R_Divider Cell
 
