@@ -22,7 +22,7 @@ You can find more information about the process technology on this [link](https:
 
 For this lab we are interested on the table that contains the device characteristic of resistors.
 
-resistor_c5_process -> picture
+![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/resistor_c5_process.png)
 
 ## R_Divider Cell
 
@@ -34,7 +34,7 @@ Since the R-2R Ladder relies on connecting a bunch of resistors in a voltage div
 
 For this lab, we are building the resistors at the n-well layer and we are only using 10k resistors.
 
-n_well_menu -> picture
+![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/n_well_menu.png)
 
 To select the correct resistor dimensions (L and W), we need to select the
 
