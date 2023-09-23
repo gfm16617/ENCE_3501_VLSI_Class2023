@@ -62,9 +62,11 @@ The schematic is then created with the defined requirements.
 
 To simulate this cell, I created a new schematic and included one R_Divider cell symbol. LTspice was used to simulate the circuit.
 
-r_divider_sim -> picture
+![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_sim.png)
 
-r_divider_sim_spice -> picture
+You can see the correct output voltage for this circuit.
+
+![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_sim_spice.png)
 
 ### Electric Layout
 
