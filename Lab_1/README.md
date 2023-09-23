@@ -56,9 +56,15 @@ We are also going to work with a fixed width. We can select any width that we wa
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/n_well_RCalc.jpg)
 
-The schematic is then created with the defined dimensions.
+The schematic is then created with the defined requirements.
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_sch.png)
+
+To simulate this cell, I created a new schematic and included one R_Divider cell symbol. LTspice was used to simulate the circuit.
+
+r_divider_sim -> picture
+
+r_divider_sim_spice -> picture
 
 ### Electric Layout
 
