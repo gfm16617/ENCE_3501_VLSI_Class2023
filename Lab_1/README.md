@@ -9,6 +9,8 @@
 - [R_Divider Cell](#r_divider-cell)
   - [Electric Schematic](#electric-schematic)
   - [Electric Layout](#electric-layout)
+- [Lab Questions](#lab-questions)
+- [Additional Comments](#additional-comments)
 
 ## Lab Description
 The goal with this lab is to design a 5-bit R-2R Ladder Digital to Analog Converter (DAC) without an op-amp.
@@ -54,6 +56,8 @@ We are also going to work with a fixed width. We can select any width that we wa
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/n_well_RCalc.jpg)
 
+The schematic is then created with the defined dimensions.
+
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_sch.png)
 
 ### Electric Layout
@@ -61,5 +65,7 @@ We are also going to work with a fixed width. We can select any width that we wa
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_lay.png)
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_lay_3D.png)
+
+## Lab Questions
 
 ## Aditional Comments
