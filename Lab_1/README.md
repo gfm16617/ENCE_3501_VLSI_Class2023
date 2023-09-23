@@ -36,7 +36,9 @@ For this lab, we are building the resistors at the n-well layer and we are only 
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/n_well_menu.png)
 
-To select the correct resistor dimensions (L and W), we need to select the
+To select the correct resistor dimensions (L and W), we will use the following equation
+
+![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/n_well_RCalc.jpg)
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_sch.png)
 
