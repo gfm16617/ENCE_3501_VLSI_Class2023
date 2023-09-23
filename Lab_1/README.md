@@ -15,7 +15,7 @@ The goal with this lab is to design a 5-bit R-2R Ladder Digital to Analog Conver
 
 ## R_Divider Cell
 
-Since the R-2R Ladder relies on connecting a bunch of resistors in a voltage divider fashion, let's create a cell that represents the 2R and R components connected together.
+Since the R-2R Ladder relies on connecting a bunch of resistors in a voltage divider fashion, let's create a cell that represents the 2R and R component first.
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/dac_subsection.png)
 
