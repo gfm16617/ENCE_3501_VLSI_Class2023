@@ -72,7 +72,7 @@ You can see the correct output voltage for this circuit, that means that the sch
 
 The layout follows the same design process used during the schematic design. Select n-well resistors and adjust the dimensions accordingly.
 
-n_well_lay_menu -> picture
+![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/n_well_lay_menu.png)
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_lay.png)
 
@@ -80,11 +80,11 @@ n_well_lay_menu -> picture
 
 To simulate this layout cell, create a new layout and includ one R_Divider layout cell. LTspice is used to simulate the circuit.
 
-r_divider_lay_sim -> picture
+![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_lay_sim.png)
 
 You can see the correct output voltage for this circuit, that means that the layout was designed correctly.
 
-r_divider_lay_sim_spice -> picture
+![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_lay_sim_spice.png)
 
 ## Lab Questions
 
