@@ -78,7 +78,7 @@ The layout follows the same design process used during the schematic design. Sel
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_lay_3D.png)
 
-To simulate this layout cell, create a new layout and includ one R_Divider layout cell. LTspice is used to simulate the circuit.
+To simulate this layout cell, create a new layout and include one R_Divider layout cell. LTspice is used to simulate the circuit.
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_lay_sim.png)
 
