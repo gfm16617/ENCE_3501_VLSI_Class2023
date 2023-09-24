@@ -10,8 +10,8 @@
   - [Electric Schematic](#electric-schematic)
   - [Electric Layout](#electric-layout)
 - [5Bit DAC](#5bit-dac)
-  - [Electric Schematic (DAC)](#electric-schematic-(dac))
-  - [Electric Layout (DAC)](#electric-layout-(dac))
+  - [Electric Schematic (DAC)](#electric-schematic-dac)
+  - [Electric Layout (DAC)](#electric-layout-dac)
 - [Lab Questions](#lab-questions)
 - [Additional Comments](#additional-comments)
 
