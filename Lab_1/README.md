@@ -115,6 +115,6 @@ TODO
   - Apply different values to the input of the DAC and check if the output has the correct value
   - Explain what happens if the DAC drives a 10k load
 
-## Aditional Comments
+## Additional Comments
 
 - DRC and NCC your design (show the results of the test)
