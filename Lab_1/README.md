@@ -77,7 +77,11 @@ The layout follows the same design process used during the schematic design. Sel
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/n_well_lay_menu.png)
 
+The resistors are laid out in parallell having the same x-position but varying y-positions (serpentine layout).
+
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_lay.png)
+
+You can view the layout in 3D.
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_lay_3D.png)
 
