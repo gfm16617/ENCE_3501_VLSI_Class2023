@@ -95,6 +95,8 @@ You can see the correct output voltage for this circuit, that means that the lay
 
 ## 5Bit DAC
 
+![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/project_cells.png)
+
 ### Electric Schematic (DAC)
 
 TODO
