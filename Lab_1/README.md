@@ -9,6 +9,9 @@
 - [R_Divider Cell](#r_divider-cell)
   - [Electric Schematic](#electric-schematic)
   - [Electric Layout](#electric-layout)
+- [5Bit DAC](#5bit_dac)
+  - [Electric Schematic (DAC)](#electric_schematic_(dac))
+  - [Electric Layout (DAC)](#electric_layout_(dac))
 - [Lab Questions](#lab-questions)
 - [Additional Comments](#additional-comments)
 
@@ -88,11 +91,11 @@ You can see the correct output voltage for this circuit, that means that the lay
 
 ## 5Bit DAC
 
-### Electric Schematic
+### Electric Schematic (DAC)
 
 TODO
 
-### Electric Layout
+### Electric Layout (DAC)
 
 TODO
 
