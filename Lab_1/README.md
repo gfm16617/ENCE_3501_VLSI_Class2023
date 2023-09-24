@@ -107,8 +107,14 @@ TODO
 
 ## Lab Questions
 
-TODO
+- Find and explain how to determine the output resistance of the DAC
+- Delay driving the load
+  - Ground all DAC inputs except B4. Connect B4 to a pulse source (0 to vdd) and show and predict using 0.7RC, the delay the DAC has driving a 10pF load
+  - Verify the simulation results match your hand calculation
+- Simulations to verify your design functions correctly
+  - Apply different values to the input of the DAC and check if the output has the correct value
+  - Explain what happens if the DAC drives a 10k load
 
 ## Aditional Comments
 
-TODO
+- DRC and NCC your design (show the results of the test)
