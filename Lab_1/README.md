@@ -9,9 +9,9 @@
 - [R_Divider Cell](#r_divider-cell)
   - [Electric Schematic](#electric-schematic)
   - [Electric Layout](#electric-layout)
-- [5Bit DAC](#5bit_dac)
-  - [Electric Schematic (DAC)](#electric_schematic_(dac))
-  - [Electric Layout (DAC)](#electric_layout_(dac))
+- [5Bit DAC](#5bit-dac)
+  - [Electric Schematic (DAC)](#electric-schematic-(dac))
+  - [Electric Layout (DAC)](#electric-layout-(dac))
 - [Lab Questions](#lab-questions)
 - [Additional Comments](#additional-comments)
 
