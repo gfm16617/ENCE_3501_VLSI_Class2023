@@ -1,0 +1,49 @@
+# header information:
+Htutorial_1|9.07
+
+# Views:
+Vlayout|lay
+Vschematic|sch
+
+# Technologies:
+Tbicmos|ScaleFORbicmos()D300.0
+Tmocmos|ScaleFORmocmos()D300.0|mocmosAnalog()BT|mocmosNumberOfMetalLayers()I3
+
+# Cell R_Divider;1{lay}
+CR_Divider;1{lay}||mocmos|1663620431856|1663622277619||DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1663622281068
+Ngeneric:Facet-Center|art@0||0|0||||AV
+NMetal-1-Pin|pin@2||-95|68.5||||
+NMetal-1-Pin|pin@3||-94.5|23.5||||
+NMetal-1-Pin|pin@4||84.5|46||||
+Ngeneric:Invisible-Pin|pin@6||-7|10|||||SIM_spice_card(D5G6;)S[Vdd vin 0 DC 5V,.op]
+NMetal-1-Pin|pin@7||73|46||||
+NN-Well-Resistor|resnwell@0||-11|56|118.1|2|||SCHEM_resistance(D5G8;)S10k
+NN-Well-Resistor|resnwell@1||-11|36|118.1|2|||SCHEM_resistance(D5G8;)S10k
+AMetal-1|net@11|||S2700|resnwell@0|left|-95|56|pin@2||-95|68.5
+AMetal-1|net@12|||S900|resnwell@1|left|-94.5|36|pin@3||-94.5|23.5
+AMetal-1|net@13||1|S900|resnwell@0|right|73|56|pin@7||73|46
+AMetal-1|net@14||1|S900|pin@7||73|46|resnwell@1|right|73|36
+AMetal-1|net@15|||S0|pin@4||84.5|46|pin@7||73|46
+Egnd||D5G4;|pin@3||U
+Evin||D5G4;|pin@2||U
+Evout||D5G4;|pin@4||U
+X
+
+# Cell R_Divider;1{sch}
+CR_Divider;1{sch}||schematic|1663615514809|1663619897140|
+Ngeneric:Facet-Center|art@0||0|0||||AV
+NOff-Page|conn@0||-7|3||||
+NOff-Page|conn@1||-11|11|||RRR|
+NGround|gnd@0||-11|-5||||
+NWire_Pin|pin@4||-11|3||||
+Ngeneric:Invisible-Pin|pin@5||0|6|||||SIM_spice_card(D5G1;)S[Vdd vin 0 DC 5V,.op]
+NResistor|resnwell@0||-11|6|||R|3|ATTR_length(D5G0.25;X-1.5;)D159.1|ATTR_width(D5G0.5;X1.5;)D14.0|SCHEM_resistance(D5G1;)S10k
+NResistor|resnwell@1||-11|0|||R|3|ATTR_length(D5G0.25;X-1.5;)D159.1|ATTR_width(D5G0.5;X1.5;)D14.0|SCHEM_resistance(D5G1;)S10k
+Awire|net@1|||2700|gnd@0||-11|-3|resnwell@1|a|-11|-2
+Awire|net@9|||900|conn@1|y|-11|9|resnwell@0|b|-11|8
+Awire|net@10|||2700|resnwell@1|b|-11|2|pin@4||-11|3
+Awire|net@11|||2700|pin@4||-11|3|resnwell@0|a|-11|4
+Awire|net@12|||1800|pin@4||-11|3|conn@0|a|-9|3
+Evin||D5G1.5;RX-2;|conn@1|y|U
+Evout||D5G1.5;X2;|conn@0|a|U
+X
