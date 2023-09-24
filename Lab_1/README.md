@@ -86,6 +86,20 @@ You can see the correct output voltage for this circuit, that means that the lay
 
 ![image](https://github.com/gfm16617/ENCE_3501_VLSI_Class2023/blob/main/Lab_1/images/r_divider_lay_sim_spice.png)
 
+## 5Bit DAC
+
+### Electric Schematic
+
+TODO
+
+### Electric Layout
+
+TODO
+
 ## Lab Questions
 
+TODO
+
 ## Aditional Comments
+
+TODO
